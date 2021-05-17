@@ -2,7 +2,7 @@
 ## Misc
 1) SSTV / Robot36 - https://github.com/victim1307/CTF/blob/main/DCTF2021/extraterrestrial.md (slow scan Television to send monochrome/color images over waves)
 
-##Web
+## Web
 1) Server Side Template Injection (SSTI) - SSTI Injection (https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Injection.md)
 2) Nessus - to scan home network
 3) theharvester - theharvester -d codingliquids.com -b google
@@ -18,7 +18,7 @@ Finds everything about a website on google(and other special sites to manage the
 6) Hashing - Tiger 128,4 - https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Very%20Secure%20Website.md
     Magic Hashes (for PHP collisions where == is used instead of ===) - https://github.com/spaze/hashes
 
-##Rev
+## Rev
 1) WORD document can have macros in it.
 https://www.youtube.com/watch?v=Y7IJjnLGqTQ
 Use oletools to extract macro (command: olevba -c word.docm)
