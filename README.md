@@ -17,6 +17,7 @@ Finds everything about a website on google(and other special sites to manage the
 5) Postman - Sending GET/POST requests with modified headers and authorisation tokens (https://github.com/fatihsencer/ctf.lib/tree/main/dCTF/web/secure_api)
 6) Hashing - Tiger 128,4 - https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Very%20Secure%20Website.md
     Magic Hashes (for PHP collisions where == is used instead of ===) - https://github.com/spaze/hashes
+7) OWASP Juice Shop - https://github.com/bkimminich/juice-shop - For pentesting (insecure website)
 
 ## Rev
 1) WORD document can have macros in it.
