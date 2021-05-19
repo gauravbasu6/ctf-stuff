@@ -18,6 +18,7 @@ Finds everything about a website on google(and other special sites to manage the
 6) Hashing - Tiger 128,4 - https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Very%20Secure%20Website.md
     Magic Hashes (for PHP collisions where == is used instead of ===) - https://github.com/spaze/hashes
 7) OWASP Juice Shop - https://github.com/bkimminich/juice-shop - For pentesting (insecure website)
+8) Sublist3r (https://github.com/aboul3la/Sublist3r) - For finding subdomains
 
 ## Rev
 1) WORD document can have macros in it.
