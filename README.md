@@ -19,6 +19,7 @@ Finds everything about a website on google(and other special sites to manage the
     Magic Hashes (for PHP collisions where == is used instead of ===) - https://github.com/spaze/hashes
 7) OWASP Juice Shop - https://github.com/bkimminich/juice-shop - For pentesting (insecure website)
 8) Sublist3r (https://github.com/aboul3la/Sublist3r) - For finding subdomains
+9) crt.sh - Another tool for subdomain enumeration
 
 ## Rev
 1) WORD document can have macros in it.
