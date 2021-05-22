@@ -1,6 +1,12 @@
 # ctf-stuff
 ## Misc
 1) SSTV / Robot36 - https://github.com/victim1307/CTF/blob/main/DCTF2021/extraterrestrial.md (slow scan Television to send monochrome/color images over waves)
+2) Password protected Zip files -
+ 	fcrackzip (https://github.com/hyc/fcrackzip) - braindead program for cracking zip archives
+3) Password cracking	
+	hashcat (https://github.com/hashcat/hashcat) - fast af passwd reovery utility
+	rockyou.txt - a wordlist; has passwords for bruteorcing
+	John The Ripper - (https://www.openwall.com/john/) - Open Source password security auditing and password recovery tool
 
 ## Web
 1) Server Side Template Injection (SSTI) - SSTI Injection (https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Injection.md)
