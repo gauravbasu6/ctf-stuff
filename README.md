@@ -32,3 +32,4 @@ Finds everything about a website on google(and other special sites to manage the
 1) WORD document can have macros in it.
 https://www.youtube.com/watch?v=Y7IJjnLGqTQ
 Use oletools to extract macro (command: olevba -c word.docm)
+2) [PNG Specifications](http://www.libpng.org/pub/png/spec/1.2/PNG-Chunks.html)
