@@ -4,6 +4,7 @@
 2) Password protected Zip files -
  	fcrackzip (https://github.com/hyc/fcrackzip) - braindead program for cracking zip archives
 3) [h8mail](https://github.com/khast3x/h8mail) - Email OSINT & Password breach hunting tool, locally or using premium services.
+4) YY-chr : YY-CHR is a CHR editor by a Japanese Mario hacker named YY. It's for multiple consoles and handhelds, and has more features than Tile Layer Pro (for GameBoy .gb files)
 
 ## Web
 1) Server Side Template Injection (SSTI) - SSTI Injection (https://github.com/xxonorg/dCTF2021_Writeup/blob/main/Injection.md)
