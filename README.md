@@ -37,3 +37,6 @@ Use oletools to extract macro (command: olevba -c word.docm)
 	rockyou.txt - a wordlist; has passwords for bruteorcing
 	[John The Ripper](https://www.openwall.com/john/) - Open Source password security auditing and password recovery tool
 5) [x64dbg](https://x64dbg.com/) - Open source Debugger for Windows
+
+## Forensics
+1) [Stegseek](https://github.com/RickdeJager/stegseek) - Fastest steghide cracker
