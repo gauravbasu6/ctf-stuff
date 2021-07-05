@@ -36,3 +36,4 @@ Use oletools to extract macro (command: olevba -c word.docm)
 	[hashcat](https://github.com/hashcat/hashcat) - fast af passwd reovery utility
 	rockyou.txt - a wordlist; has passwords for bruteorcing
 	[John The Ripper](https://www.openwall.com/john/) - Open Source password security auditing and password recovery tool
+5) [x64dbg](https://x64dbg.com/) - Open source Debugger for Windows
